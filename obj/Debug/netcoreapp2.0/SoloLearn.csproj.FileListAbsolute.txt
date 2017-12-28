@@ -1,0 +1,10 @@
+C:\Projects\SoloLearn\bin\Debug\netcoreapp2.0\SoloLearn.deps.json
+C:\Projects\SoloLearn\bin\Debug\netcoreapp2.0\SoloLearn.runtimeconfig.json
+C:\Projects\SoloLearn\bin\Debug\netcoreapp2.0\SoloLearn.runtimeconfig.dev.json
+C:\Projects\SoloLearn\bin\Debug\netcoreapp2.0\SoloLearn.dll
+C:\Projects\SoloLearn\bin\Debug\netcoreapp2.0\SoloLearn.pdb
+C:\Projects\SoloLearn\obj\Debug\netcoreapp2.0\SoloLearn.csproj.CoreCompileInputs.cache
+C:\Projects\SoloLearn\obj\Debug\netcoreapp2.0\SoloLearn.AssemblyInfoInputs.cache
+C:\Projects\SoloLearn\obj\Debug\netcoreapp2.0\SoloLearn.AssemblyInfo.cs
+C:\Projects\SoloLearn\obj\Debug\netcoreapp2.0\SoloLearn.dll
+C:\Projects\SoloLearn\obj\Debug\netcoreapp2.0\SoloLearn.pdb
